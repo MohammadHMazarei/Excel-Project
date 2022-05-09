@@ -1,2 +1,5 @@
 # Excel-Project
-## Functiosn
+## Functions
+> Math : 
+   [ 1 ] Divide
+   [ 2 ] Multiply
