@@ -1,5 +1,5 @@
 # Excel-Project
-My first console base project that wrote last year.
+My first console base project that wrote last year and btw its not a clean code project.
 > About :
    in this project we have excel created by 2D Array which has rows and columns definded in project so you can creat your table with whatever you want your row and column.
 ## Functions
