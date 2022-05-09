@@ -1,5 +1,6 @@
 # Excel-Project
 My first console base project that coded last year.
+Validations checked.
 ## Functions
 > Math : 
    ```
