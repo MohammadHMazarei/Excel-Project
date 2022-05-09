@@ -2,6 +2,6 @@
 ## Functions
 > Math : 
    ```
-   * Divide
-   * Multiply
+   [ 1 ] Divide
+   [ 1 ] Multiply
    ```
