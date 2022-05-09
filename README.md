@@ -1,5 +1,5 @@
 # Excel-Project
-My first console base project that coded last year.
+My first console base project that wrote last year.
 Validations checked.
 ## Functions
 > Math : 
