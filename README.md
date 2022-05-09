@@ -1,6 +1,5 @@
 # Excel-Project
-My first console base project that wrote last year.
-Validations checked.
+My first console base project that wrote last year./n
 ## Functions
 > Math : 
    ```
